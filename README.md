@@ -1,4 +1,4 @@
-﻿# Font-End-Part-One
+
 #  JavaScript Joke App
 *Assignment: Mastering JavaScript Fundamentals*  
  *Athor: Kelvin Mwarano*
@@ -64,6 +64,7 @@ I applied the **front-end development knowledge** I’ve gained from:
 I then **collaborated with AI** to generate some jokes and keep the project fun .  
 
 ---
+
 
 
 
