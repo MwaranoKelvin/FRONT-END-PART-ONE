@@ -1,7 +1,7 @@
 ﻿# Font-End-Part-One
 #  JavaScript Joke App
 *Assignment: Mastering JavaScript Fundamentals*  
-### Athor: Kelvin Mwarano
+### * Athor: Kelvin Mwarano
 
 This project is a **fun and minimal web app** that demonstrates JavaScript fundamentals while making you laugh with random **programming/web development jokes**.  
 
@@ -64,6 +64,7 @@ I applied the **front-end development knowledge** I’ve gained from:
 I then **collaborated with AI** to generate some jokes and keep the project fun .  
 
 ---
+
 
 
 
